@@ -10,32 +10,32 @@ const CryptoNews = () => {
       link: "https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/"
     },
     {
-      id: 2,
-      title: "Ethereum se prepara para la actualización 'Pectra'",
-      date: "18 de Mayo, 2024",
-      summary: "La próxima gran actualización de Ethereum, 'Pectra', promete mejoras significativas en escalabilidad y eficiencia. La comunidad espera con ansias su implementación.",
-      link: "#"
+     id: 2,
+      title: "Mercado cripto supera los USD 4 billones tras la ley y sostén institucional",
+      date: "July 18, 2025",
+      summary: "El valor total del mercado cripto supera los 4 billones de dólares, con Bitcoin rompiendo los $120 000, impulsado por la regulación y los ETFs institucionales.",
+      link: "https://www.reuters.com/business/crypto-sector-breaches-4-trillion-market-value-during-pivotal-week-2025-07-18/"
     },
     {
       id: 3,
-      title: "El auge de las Stablecoins: ¿Refugio en la volatilidad?",
-      date: "16 de Mayo, 2024",
-      summary: "Las stablecoins están ganando terreno como una opción segura para los inversores en tiempos de alta volatilidad en el mercado de criptomonedas.",
-      link: "#"
+      title: "Hack masivo: USD 44 millones robados a CoinDCX",
+      date: "July, 20, 2025",
+      summary: "En un ciberataque del 19 de julio, el exchange indio CoinDCX sufrió un hack de $44.2 M desde una cuenta operativa; los fondos de usuarios permanecen intactos, y la empresa lo cubre de su tesorería.",
+      link: "https://cryptorank.io/news/feed/edb3d-bitcoin-exchange-coin-dcx-lost-44-million-due-to-hack"
     },
     {
       id: 4,
-      title: "NFTs en el mundo del gaming: Una nueva era de propiedad digital",
-      date: "14 de Mayo, 2024",
-      summary: "Los Tokens No Fungibles (NFTs) están revolucionando la industria de los videojuegos, permitiendo a los jugadores poseer activos únicos dentro de los juegos.",
-      link: "#"
+      title: "Ciberataques cripto en julio superan los USD 1.5 billones",
+      date: "July 20, 2025",
+      summary: "Varios exchanges, incluidos Bybit, BigONE y CoinDCX, perdieron colectivamente $1.5 billones en ciberataques durante julio, reflejando alto riesgo para la seguridad centralizada.",
+      link: "https://www.ainvest.com/news/cryptocurrency-exchanges-lose-1-5-billion-july-2025-hacks-2507/"
     },
     {
       id: 5,
-      title: "Regulación cripto en América Latina: Un panorama diverso",
-      date: "12 de Mayo, 2024",
-      summary: "Varios países de América Latina están explorando diferentes enfoques para regular las criptomonedas, desde la adopción hasta la prohibición.",
-      link: "#"
+      title: "Bitcoin en pausa antes de posible nuevo máximo en julio",
+      date: "July 19, 2025",
+      summary: "Aunque BTC se estabiliza alrededor de $118 000, analistas, como Michael Harvey de Galaxy Digital, anticipan que podría alcanzar un nuevo ATH antes de fin de mes.",
+      link: "https://cointelegraph.com/news/bitcoin-price-consolidation-phase-possible-july-highs-forecast-trader?"
     },
   ];
 

@@ -4,10 +4,10 @@ const CryptoNews = () => {
   const newsArticles = [
     {
       id: 1,
-      title: "Bitcoin supera los $70,000: ¿Qué sigue para el mercado cripto?",
-      date: "20 de Mayo, 2024",
-      summary: "La criptomoneda líder ha alcanzado un nuevo hito, generando optimismo y especulación sobre su trayectoria futura. Analistas debaten si la tendencia alcista se mantendrá.",
-      link: "#" // En un proyecto real, esto sería un link a la noticia completa
+      title: "Trump firma la GENIUS Act, marco regulatorio para stablecoins",
+      date: "July 18, 2025",
+      summary: "El 18 de julio de 2025, el expresidente firmó la GENIUS Act, la primera ley federal de EE. UU. que regula stablecoins, exigiendo respaldo 1:1 en dólares o activos seguros y estableciendo supervisión clara.",
+      link: "https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/"
     },
     {
       id: 2,

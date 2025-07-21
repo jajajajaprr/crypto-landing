@@ -11,7 +11,7 @@ const CryptoMyOtherPage = () => {
         ¡En mi otra página puedes simular sus movimientos y aprender de forma interactiva!
       </p>
       <a
-        href="http://nerd-lat-nerdtasktuasistentedigital-1751229586560-nzmkec.netlify.app"
+        href="https://criptoinfohubwallet.netlify.app/"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block bg-white text-blue-600 text-xl sm:text-2xl font-bold px-8 py-4 rounded-full shadow-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl"
